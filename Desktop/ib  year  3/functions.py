@@ -20,7 +20,7 @@ number2 = int (input("whats your second "))
 final_number = number1 + number2
 print(f"{number1 * number2}")
 print("{} + {} = {}" .format(number1, number2, final_number))
-
+#multiplication
 a= float(input("enter the first number "))
 b= float(input("enter the second number "))
 product = a* b
