@@ -23,5 +23,5 @@ def get_percent():
     except (ValueError, ZeroDivisionError):
         pass
 
-
-main ()
+    
+        main()
